@@ -7,7 +7,7 @@ const geistSans = Geist({ subsets: ['latin'], variable: '--font-geist-sans' })
 const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono' })
 
 export const metadata: Metadata = {
-  title: 'Lumen — Photo Editor',
+  title: 'Abhishek Singh - Editing Software',
   description:
     'A fast, private, GPU-accelerated photo editor in your browser. Adjust light and color, apply filters, crop, straighten, draw, and export in full resolution.',
   generator: 'v0.app',
